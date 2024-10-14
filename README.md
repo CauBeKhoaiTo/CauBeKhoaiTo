@@ -12,6 +12,7 @@
 | ![Java](https://img.shields.io/badge/Java-%23E34F26.svg?style=flat&logo=java&logoColor=white) | Intermediate |
 | ![Python](https://img.shields.io/badge/Python-%233572A0.svg?style=flat&logo=python&logoColor=white) | Intermediate |
 | ![SQL](https://img.shields.io/badge/SQL-%2328A745.svg?style=flat&logo=postgresql&logoColor=white) | Intermediate |
+| ![Dolphin](https://img.shields.io/badge/Dolphin-%2328A745.svg?style=flat&logo=dolphin&logoColor=white) | Intermediate |
 
 ## 💼 Projects
 Here are a few projects I’ve worked on:
