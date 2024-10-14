@@ -11,9 +11,6 @@
 |---------------------|-------------|
 | ![Java](https://img.shields.io/badge/Java-%23E34F26.svg?style=flat&logo=java&logoColor=white) | Intermediate |
 | ![Python](https://img.shields.io/badge/Python-%233572A0.svg?style=flat&logo=python&logoColor=white) | Intermediate |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) | Beginner |
-| ![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) | Intermediate |
-| ![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white) | Intermediate |
 
 ## 💼 Projects
 Here are a few projects I’ve worked on:
