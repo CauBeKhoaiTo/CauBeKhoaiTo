@@ -23,7 +23,7 @@ Here are a few projects I’ve worked on:
 - **[Project 3](https://github.com/yourusername/project3)**: A brief description of what this project does.
 
 ## 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/yourlinkedin)
+- Discord: ssleck_
 
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical) <!-- Thay thế bằng tên người dùng GitHub của bạn -->
