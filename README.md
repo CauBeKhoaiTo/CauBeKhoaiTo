@@ -24,8 +24,6 @@ Here are a few projects I’ve worked on:
 
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/yourlinkedin)
-- [Twitter](https://twitter.com/yourtwitter)
-- [Your Portfolio/Blog](https://yourportfolio.com)
 
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical) <!-- Thay thế bằng tên người dùng GitHub của bạn -->
