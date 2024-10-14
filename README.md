@@ -1,6 +1,6 @@
 # 👋 Hello, I'm [Your Name]!
 
-![Your Banner Image]([https://source.unsplash.com/1600x400/?nature,water](https://i.redd.it/pixel-lakes-sunny-and-sunset-pixel-art-landscape-series-v0-3vciy9e2f0sb1.jpg?width=3840&format=pjpg&auto=webp&s=aba19dac3ecb5f9dcb51ef0459ca40654ab5bbcd)) <!-- Thay thế bằng URL hình ảnh mà bạn thích -->
+![Your Banner Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.deviantart.com%2Finkimagine%2Fart%2FPixel-Art-Landscape-1026346241&psig=AOvVaw3ITFdl9JuRHM82TRHTTKs0&ust=1729008864508000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOi-iY2ijokDFQAAAAAdAAAAABAJ) <!-- Thay thế bằng URL hình ảnh mà bạn thích -->
 
 ## 🌟 About Me
 - 🎓 I'm currently studying [Your Major] at [Your University].
