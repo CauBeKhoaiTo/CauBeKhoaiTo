@@ -3,8 +3,8 @@
 ## 🌟 About Me
 - 🎓 I'm currently studying [...] at [...].
 - 🌱 I’m currently learning [Technologies/Skills].
-- 💼 I have experience in [].
-- 🎯 My goal is to [Your Goal].
+- 💼 I have experience in [fields related to Minecraft server and Java.].
+- 🎯 My goal is to [...].
 
 ## 🚀 Skills
 | Language/Technology | Proficiency |
