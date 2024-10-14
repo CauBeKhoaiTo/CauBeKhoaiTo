@@ -1,9 +1,7 @@
-# 👋 Hello, I'm [Your Name]!
-
-![Your Banner Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.deviantart.com%2Finkimagine%2Fart%2FPixel-Art-Landscape-1026346241&psig=AOvVaw3ITFdl9JuRHM82TRHTTKs0&ust=1729008864508000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOi-iY2ijokDFQAAAAAdAAAAABAJ) <!-- Thay thế bằng URL hình ảnh mà bạn thích -->
+# 👋 Hello, I'm [Ssleck_]!
 
 ## 🌟 About Me
-- 🎓 I'm currently studying [Your Major] at [Your University].
+- 🎓 I'm currently studying [...] at [...].
 - 🌱 I’m currently learning [Technologies/Skills].
 - 💼 I have experience in [Your Experience or Job Title].
 - 🎯 My goal is to [Your Goal].
