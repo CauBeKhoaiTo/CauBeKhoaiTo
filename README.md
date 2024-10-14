@@ -3,7 +3,7 @@
 ## 🌟 About Me
 - 🎓 I'm currently studying [...] at [...].
 - 🌱 I’m currently learning [Technologies/Skills].
-- 💼 I have experience in [fields related to Minecraft server and Java.].
+- 💼 I have experience in [Lields related to Minecraft server and Java.].
 - 🎯 My goal is to [...].
 
 ## 🚀 Skills
